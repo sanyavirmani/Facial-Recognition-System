@@ -12,13 +12,13 @@ The primary objective of this project is to comprehensively study and enhance th
 * Face Recognition
 * Operating System
 
-  ## ER Diagram:
-  ![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/dda8394c-ca4d-4841-a3ce-f98b8fa2d511)
+## ER Diagram:
+![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/dda8394c-ca4d-4841-a3ce-f98b8fa2d511)
 
-  ## Face Recognition using Images
-  ![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/837df262-d92a-49b9-ad0e-2425207ecccc)
+## Face Recognition using Images
+![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/837df262-d92a-49b9-ad0e-2425207ecccc)
 
-  ## Real-time Face Detection and Recognition
-  ![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/a589d57e-13a4-4541-9f0e-0ba97eb998d3)
+## Real-time Face Detection and Recognition
+![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/a589d57e-13a4-4541-9f0e-0ba97eb998d3)
 
-  ![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/9b300da6-030a-4909-8b92-86ce4674c13c)
+![image](https://github.com/sanyavirmani/Facial-Recognition-System/assets/114525205/9b300da6-030a-4909-8b92-86ce4674c13c)
